@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC001', '2025-12-31', '2025-01-01', 'MED123', 'RSSMRA85M01H501Z');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC002', '2025-11-30', '2025-02-15', 'MED456', 'VRDLGI80A01H501X');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC003', '2025-10-15', '2025-03-10', 'MED789', 'BNCLRA90B02H501Y');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC004', '2025-09-01', '2025-04-20', 'MED012', 'NTZMRL70C03H501W');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC005', '2025-08-20', '2025-05-30', 'MED345', 'GRGFNC65D04H501V');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC006', '2025-07-10', '2025-06-25', 'MED678', 'RBLGST75E05H501U');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC007', '2025-06-05', '2025-07-15', 'MED901', 'MRTPLN60F06H501T');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC008', '2025-05-01', '2025-08-10', 'MED234', 'BLGBRN95G07H501S');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC009', '2025-04-15', '2025-09-05', 'MED567', 'FRNMRZ85H08H501R');
+INSERT INTO `Farmaciadb`.`RicettaMedica` (`CodiceRicetta`, `DataScadenza`, `DataEmissione`, `CodiceMedicoDibase`, `CodiceFiscale`) VALUES ('RIC010', '2025-03-20', '2025-10-01', 'MED890', 'PRTVLC77I09H501Q');

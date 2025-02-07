@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC001', 'AIC001', 30, 20);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC002', 'AIC002', 20, 15);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC003', 'AIC003', 50, 45);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC004', 'AIC004', 10, 8);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC005', 'AIC005', 40, 30);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC006', 'AIC006', 60, 50);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC007', 'AIC007', 25, 20);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC008', 'AIC008', 15, 10);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC009', 'AIC009', 35, 25);
+INSERT INTO `Farmaciadb`.`Prescrizione` (`CodiceRicetta`, `Farmaco`, `QuantitàTotale`, `QuantitàRimanente`) VALUES ('RIC010', 'AIC010', 45, 40);

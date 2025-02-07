@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC001', 'Paracetamolo', 'Paracetamolo', 4.50, 500, 'Compressa', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC002', 'Aspirina', 'Acido Acetilsalicilico', 3.75, 325, 'Compressa', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC003', 'Ibuprofene', 'Ibuprofene', 5.25, 200, 'Capsula', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC004', 'Amoxicillina', 'Amoxicillina', 7.80, 500, 'Capsula', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC005', 'Cetirizina', 'Cetirizina', 2.95, 10, 'Compressa', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC006', 'Metformina', 'Metformina', 6.40, 500, 'Compressa', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC007', 'Loratadina', 'Loratadina', 3.20, 10, 'Compressa', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC008', 'Simvastatina', 'Simvastatina', 8.10, 20, 'Compressa', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC009', 'Omeprazolo', 'Omeprazolo', 9.60, 20, 'Capsula', TRUE);
+INSERT INTO `Farmaciadb`.`Farmaco` (`AIC`, `Nome`, `PrincipioAttivo`, `PrezzoUnitario`, `Dosaggio`, `FormaFarmaceutica`, `Prescrizione`) VALUES ('AIC010', 'Levotiroxina', 'Levotiroxina', 12.75, 50, 'Compressa', TRUE);

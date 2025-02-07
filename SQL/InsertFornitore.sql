@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (12345678901, 'Farmacia ABC', '3331234567', 'Via Roma', '10', '00100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (23456789012, 'Laboratorio XYZ', '3332345678', 'Via Milano', '15', '20100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (34567890123, 'Prodotti Medici Srl', '3333456789', 'Via Napoli', '20', '80100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (45678901234, 'Distribuzione Farmaceutica', '3334567890', 'Via Torino', '25', '10100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (56789012345, 'Servizi Sanitari SpA', '3335678901', 'Via Firenze', '30', '50100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (67890123456, 'Pharma Logistics', '3336789012', 'Via Bologna', '35', '40100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (78901234567, 'Medical Supplies Ltd', '3337890123', 'Via Genova', '40', '16100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (89012345678, 'Healthcare Solutions', '3338901234', 'Via Palermo', '45', '90100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (90123456789, 'Clinica Gamma', '3339012345', 'Via Bari', '50', '70100');
+INSERT INTO `Farmaciadb`.`Fornitore` (`PIva`, `NomeAzienda`, `CelluraleTelefonoFisso`, `Via`, `NumeroCivico`, `Cap`) VALUES (12345098765, 'Farmaci Europa', '3330123456', 'Via Venezia', '55', '30100');

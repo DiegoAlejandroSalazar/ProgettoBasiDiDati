@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC001', 'Penicillina', 'Contiene tracce di penicillina.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC002', 'Sulfonamide', 'Potrebbe contenere sulfonamidi.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC003', 'Lattice', 'Prodotto in un impianto che utilizza lattice.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC004', 'Aspartame', 'Contiene dolcificante artificiale aspartame.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC005', 'Farmaci Antiepilettici', 'Può causare reazioni allergiche nei pazienti sensibili.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC006', 'Farmaci Antinfiammatori Non Steroidei (FANS)', 'Contiene FANS.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC007', 'Anestetici Locali', 'Può contenere anestetici locali.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC008', 'Contrasto Iodato', 'Utilizzato in imaging medico, contiene iodio.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC009', 'Insulina', 'Contiene insulina.');
+INSERT INTO `Farmaciadb`.`Presenza` (`Farmaco`, `Allergene`, `InfoAggiuntive`) VALUES ('AIC010', 'Vaccini', 'Può contenere componenti dei vaccini.');

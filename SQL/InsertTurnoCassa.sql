@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('NRSGLD72H10H501J', '2025-02-03', '09:00:00', '13:00:00','1');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('PZLMNL80I11H501K', '2025-02-03', '13:00:00', '17:00:00','1');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('RCCFNC85J12H501L', '2025-02-03', '08:00:00', '12:00:00','3');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('STTTZM65K13H501M', '2025-02-03', '12:00:00', '16:00:00','5');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('LVDMTT74L14H501N', '2025-02-03', '10:00:00', '14:00:00','5');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('CLRSRN89M15H501O', '2025-02-03', '14:00:00', '18:00:00','2');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('BRNNCL73N16H501P', '2025-02-03', '09:00:00', '13:00:00','4');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('FBRLGC78O17H501Q', '2025-02-03', '13:00:00', '17:00:00','3');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('LTTMSS88P18H501R', '2025-02-03', '08:00:00', '12:00:00','2');
+INSERT INTO `Farmaciadb`.`TurnoCassa` (`Dipendente`, `Data`, `OraInizio`, `OraFine`,`Cassa`) VALUES ('MDLLMN81Q19H501S', '2025-02-03', '12:00:00', '16:00:00','4');

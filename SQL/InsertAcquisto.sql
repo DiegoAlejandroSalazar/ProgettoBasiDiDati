@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (1, '2025-02-01', 'RIC001', 'LOT001', 'AIC001', 'SER001');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (2, '2025-02-01', null, 'LOT002', 'AIC002', 'SER002');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (3, '2025-02-01', 'RIC003', 'LOT003', 'AIC003', 'SER003');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (4, '2025-02-01', 'RIC004', 'LOT004', 'AIC004', 'SER004');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (5, '2025-02-01', null, 'LOT005', 'AIC005', 'SER005');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (6, '2025-02-01', 'RIC006', 'LOT006', 'AIC006', 'SER006');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (7, '2025-02-01', 'RIC007', 'LOT007', 'AIC007', 'SER007');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (8, '2025-02-01', 'RIC008', 'LOT008', 'AIC008', 'SER008');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (9, '2025-02-01', null, 'LOT009', 'AIC009', 'SER009');
+INSERT INTO `Farmaciadb`.`Acquisto` (`Vendita`, `Data`, `Ricetta`, `Lotto`, `Farmaco`, `NumeroDiSerie`) VALUES (10, '2025-02-01', 'RIC010', 'LOT010', 'AIC010', 'SER010');

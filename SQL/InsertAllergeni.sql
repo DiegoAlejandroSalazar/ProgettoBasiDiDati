@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Penicillina', 'Un antibiotico comune che può causare reazioni allergiche, inclusa l\'anafilassi, in alcune persone.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Sulfonamide', 'Un tipo di antibiotico che può provocare reazioni allergiche in alcune persone.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Lattice', 'Materiale utilizzato nei guanti medici, cerotti e altri dispositivi medici che può causare allergie.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Aspartame', 'Dolcificante artificiale che può causare reazioni allergiche in alcune persone.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Farmaci Antiepilettici', 'Farmaci utilizzati per il trattamento dell\'epilessia che possono causare reazioni allergiche.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Farmaci Antinfiammatori Non Steroidei (FANS)', 'Classe di farmaci utilizzati per ridurre il dolore e l\'infiammazione, che può causare allergie in alcune persone.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Anestetici Locali', 'Farmaci utilizzati per intorpidire un\'area del corpo che possono causare reazioni allergiche.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Contrasto Iodato', 'Utilizzato nelle procedure di imaging medico, può provocare reazioni allergiche in alcune persone.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Insulina', 'Ormone usato nel trattamento del diabete che può causare reazioni allergiche.');
+INSERT INTO `Farmaciadb`.`Allergene` (`Nome`, `Descrizione`) VALUES ('Vaccini', 'Alcuni componenti dei vaccini possono causare reazioni allergiche in alcune persone.');

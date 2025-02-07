@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT001', 'AIC001', 100);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT002', 'AIC002', 200);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT003', 'AIC003', 150);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT004', 'AIC004', 250);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT005', 'AIC005', 300);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT006', 'AIC006', 180);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT007', 'AIC007', 220);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT008', 'AIC008', 270);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT009', 'AIC009', 160);
+INSERT INTO `Farmaciadb`.`Lotto` (`CodiceLotto`, `Farmaco`, `QuantitàDisponibile`) VALUES ('LOT010', 'AIC010', 240);

@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('NRSGLD72H10H501J', '2025-02-02', '09:00:00', '17:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('PZLMNL80I11H501K', '2025-02-02', '08:00:00', '16:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('RCCFNC85J12H501L', '2025-02-02', '10:00:00', '18:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('STTTZM65K13H501M', '2025-02-02', '07:00:00', '15:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('LVDMTT74L14H501N', '2025-02-02', '11:00:00', '19:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('CLRSRN89M15H501O', '2025-02-02', '12:00:00', '20:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('BRNNCL73N16H501P', '2025-02-02', '13:00:00', '21:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('FBRLGC78O17H501Q', '2025-02-02', '06:00:00', '14:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('LTTMSS88P18H501R', '2025-02-02', '14:00:00', '22:00:00');
+INSERT INTO `Farmaciadb`.`TurnoLavorativo` (`Dipendente`, `Data`, `OraInizio`, `OraFine`) VALUES ('MDLLMN81Q19H501S', '2025-02-02', '15:00:00', '23:00:00');

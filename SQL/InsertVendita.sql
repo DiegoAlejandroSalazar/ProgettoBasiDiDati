@@ -1,0 +1,10 @@
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (1, '2025-02-01', '09:30:00', 'Carta di Credito', 1);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (2, '2025-02-01', '10:15:00', 'Contanti', 2);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (3, '2025-02-01', '11:00:00', 'Carta di Debito', 3);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (4, '2025-02-01', '11:45:00', 'Carta di Credito', 4);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (5, '2025-02-01', '12:30:00', 'Contanti', 5);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (6, '2025-02-01', '13:15:00', 'Carta di Credito', 3);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (7, '2025-02-01', '14:00:00', 'Carta di Debito', 2);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (8, '2025-02-01', '14:45:00', 'Contanti', 5);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (9, '2025-02-01', '15:30:00', 'Carta di Credito', 3);
+INSERT INTO `Farmaciadb`.`Vendita` (`IdVendita`, `DataVendita`, `OraVendita`, `MetodoDiPagamento`, `IdCassa`) VALUES (10, '2025-02-01', '16:15:00', 'Contanti', 1);
